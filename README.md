@@ -8,7 +8,7 @@
 
 - Building patient tools in **Python, React and TypeScript**  
 - Exploring **health-tech entrepreneurship** and functional medicine on PTSD and post-acute infection syndromes
-- Expanding skills in **large language models for healthcare, brain-computer interfaces, and interactive hardware design**
+- Experimenting with **large language models for healthcare, brain-computer interfaces, and interactive hardware design**
 
 Previously: Technical associate at Mount Sinai’s Center for Computational Psychiatry, where I built online research games and applied Bayesian machine learning to study decision-making in clinical and healthy populations.
 
